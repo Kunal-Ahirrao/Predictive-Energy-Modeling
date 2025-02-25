@@ -7,12 +7,10 @@ output:
 
 # Intro to Data Science - Final Project
 # Group Members:-
-# 1. Jackson Bayuk
+# 1. Kunal Ahirrao
 # 2. Sukhad Dnyanesh Joshi
-# 3. Kunal Ahirrao
-# 4. Het Bhavesh Trivedi
-# 5. Tianyuan Sheng
-# 6. Marina Mitiaeva
+
+
 ```{r}
 #install.packages("arrow")
 library(arrow)
